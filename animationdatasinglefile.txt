@@ -8729,7 +8729,7 @@ FootBack:0.333333
 1
 0.4 0 0 0 1
 
-25060
+25061
 1
 19
 Behaviors\0_Master.hkx
@@ -33835,6 +33835,15 @@ SoundPlay.NoteLal:0
 RitualSpellOut:3
 SolfeggioStop:3
 
+RitualDodgeForward
+1662
+1
+0
+0
+3
+xNRDodgeStop:3
+RitualSpellOut:3
+
 DLC01TrailerWalkForward
 623
 1
@@ -33844,7 +33853,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12710
+12711
 100
 1.2
 1
@@ -46584,6 +46593,13 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1662
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -46591,7 +46607,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-25051
+25052
 1
 19
 Behaviors\0_Master.hkx
@@ -71688,6 +71704,15 @@ SoundPlay.NoteLal:0
 RitualSpellOut:3
 SolfeggioStop:3
 
+RitualDodgeForward
+1662
+1
+0
+0
+3
+xNRDodgeStop:3
+RitualSpellOut:3
+
 DLC01TrailerWalkForward
 623
 1
@@ -71697,7 +71722,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12747
+12748
 100
 1.2
 1
@@ -84468,6 +84493,13 @@ IdleStop:8.66067
 0 0 0 0 1
 
 1661
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1662
 3
 1
 0 0 0 0

@@ -23,7 +23,7 @@
 			<!-- referenceCount SERIALIZE_IGNORED -->
 			<hkparam name="deformableSkinNames" numelements="0"></hkparam>
 			<hkparam name="rigidSkinNames" numelements="0"></hkparam>
-			<hkparam name="animationNames" numelements="1659">
+			<hkparam name="animationNames" numelements="1660">
 				<hkcstring>Animations\1HM_1stP_Run.hkx</hkcstring>
 				<hkcstring>Animations\1hm_1stP_Walk.hkx</hkcstring>
 				<hkcstring>Animations\1HM_AttackForwardSprint.hkx</hkcstring>
@@ -1683,6 +1683,7 @@
 				<hkcstring>Animations\Xing\NoteMagicRight.hkx</hkcstring>
 				<hkcstring>Animations\Xing\NoteMagicLeft.hkx</hkcstring>
 				<hkcstring>Animations\Xing\NoteMagicFinal.hkx</hkcstring>
+				<hkcstring>Animations\Xing\NoteDodgeForward.hkx</hkcstring>
 			</hkparam>
 			<hkparam name="animationFilenames" numelements="0"></hkparam>
 			<hkparam name="characterPropertyNames" numelements="39">
