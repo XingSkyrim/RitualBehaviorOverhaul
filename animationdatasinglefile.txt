@@ -8729,7 +8729,7 @@ FootBack:0.333333
 1
 0.4 0 0 0 1
 
-25069
+25071
 1
 19
 Behaviors\0_Master.hkx
@@ -33910,6 +33910,24 @@ RitualSpell_ChargeLoop
 0
 0
 
+NoteDodgeAttackA
+1671
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+NoteDodgeAttackB
+1671
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
 DLC01TrailerWalkForward
 623
 1
@@ -33919,7 +33937,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12719
+12720
 100
 1.2
 1
@@ -46722,6 +46740,13 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1671
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -46729,7 +46754,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-25060
+25062
 1
 19
 Behaviors\0_Master.hkx
@@ -71901,6 +71926,24 @@ RitualSpell_ChargeLoop
 0
 0
 
+NoteDodgeAttackA
+1671
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+NoteDodgeAttackB
+1671
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
 DLC01TrailerWalkForward
 623
 1
@@ -71910,7 +71953,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12756
+12757
 100
 1.2
 1
@@ -84750,6 +84793,13 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1671
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -84757,7 +84807,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-13955
+13957
 1
 17
 Behaviors\0_Master.hkx
@@ -98810,6 +98860,24 @@ RitualSpell_ChargeLoop
 0
 0
 
+NoteDodgeAttackA
+884
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+NoteDodgeAttackB
+884
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
 IdleDLC02BoatRide
 400
 1
@@ -98833,7 +98901,7 @@ SoundPlay.QSTDLC2BoatArrivalCreakC01:35.841
 SoundPlay.QSTDLC2BoatArrivalCreakB04:40.87
 IdleStop:41.6667
 
-5978
+5979
 104
 4
 1
@@ -104904,6 +104972,16 @@ IdleStop:41.6667
 3
 1
 0 0 0 0
+1
+0 0 0 0 1
+
+884
+1.233333
+4
+0 0 0 0
+0.333333 0 -10 0
+0.733333 0 -500 0
+1.2 0 -510 0
 1
 0 0 0 0 1
 
