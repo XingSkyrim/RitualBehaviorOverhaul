@@ -8729,7 +8729,7 @@ FootBack:0.333333
 1
 0.4 0 0 0 1
 
-25061
+25069
 1
 19
 Behaviors\0_Master.hkx
@@ -16924,7 +16924,7 @@ FeedChicken
 AnimObjDraw:0
 IdleStop:5.96667
 
-RitualSpell_ChargeLoop
+RitualSpell_PreCharge
 1383
 1
 0
@@ -33840,9 +33840,75 @@ RitualDodgeForward
 1
 0
 0
-3
+2
 xNRDodgeStop:3
 RitualSpellOut:3
+
+RitualDodgeBack
+1663
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+RitualDodgeRight
+1664
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+RitualDodgeLeft
+1665
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+NoteUltraMagIntro
+1666
+1
+0
+0
+1
+RitualSpellOut:3
+
+NoteUltraMagLoop
+1667
+1
+0
+0
+0
+
+NoteUltraMagRelease
+1668
+1
+0
+0
+2
+ResetNoteScore:2
+RitualSpellOut:3
+
+NoteBinding
+1669
+1
+0
+0
+1
+NoteBindingOut:2
+
+RitualSpell_ChargeLoop
+1670
+1
+0
+0
+0
 
 DLC01TrailerWalkForward
 623
@@ -33853,7 +33919,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12711
+12719
 100
 1.2
 1
@@ -46600,6 +46666,62 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1663
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1664
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1665
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1666
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1667
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1668
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1669
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1670
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -46607,7 +46729,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-25052
+25060
 1
 19
 Behaviors\0_Master.hkx
@@ -54802,7 +54924,7 @@ FeedChicken
 AnimObjDraw:0
 IdleStop:5.96667
 
-RitualSpell_ChargeLoop
+RitualSpell_PreCharge
 1383
 1
 0
@@ -71709,9 +71831,75 @@ RitualDodgeForward
 1
 0
 0
-3
+2
 xNRDodgeStop:3
 RitualSpellOut:3
+
+RitualDodgeBack
+1663
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+RitualDodgeRight
+1664
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+RitualDodgeLeft
+1665
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+NoteUltraMagIntro
+1666
+1
+0
+0
+1
+RitualSpellOut:3
+
+NoteUltraMagLoop
+1667
+1
+0
+0
+0
+
+NoteUltraMagRelease
+1668
+1
+0
+0
+2
+ResetNoteScore:2
+RitualSpellOut:3
+
+NoteBinding
+1669
+1
+0
+0
+1
+NoteBindingOut:2
+
+RitualSpell_ChargeLoop
+1670
+1
+0
+0
+0
 
 DLC01TrailerWalkForward
 623
@@ -71722,7 +71910,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12748
+12756
 100
 1.2
 1
@@ -84506,6 +84694,62 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1663
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1664
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1665
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1666
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1667
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1668
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1669
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1670
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -84513,7 +84757,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-13946
+13955
 1
 17
 Behaviors\0_Master.hkx
@@ -85714,7 +85958,7 @@ IdleRitualSpellCharge
 1
 00NextClip:4.66667
 
-RitualSpell_ChargeLoop
+RitualSpell_PreCharge
 744
 1
 0
@@ -98491,6 +98735,81 @@ SoundPlay.NoteLal:0
 RitualSpellOut:3
 SolfeggioStop:3
 
+RitualDodgeForward
+875
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+RitualDodgeBack
+876
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+RitualDodgeRight
+877
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+RitualDodgeLeft
+878
+1
+0
+0
+2
+xNRDodgeStop:3
+RitualSpellOut:3
+
+NoteUltraMagIntro
+879
+1
+0
+0
+1
+RitualSpellOut:3
+
+NoteUltraMagLoop
+880
+1
+0
+0
+0
+
+NoteUltraMagRelease
+881
+1
+0
+0
+2
+ResetNoteScore:2
+RitualSpellOut:3
+
+NoteBinding
+882
+1
+0
+0
+1
+NoteBindingOut:2
+
+RitualSpell_ChargeLoop
+883
+1
+0
+0
+0
+
 IdleDLC02BoatRide
 400
 1
@@ -98514,7 +98833,7 @@ SoundPlay.QSTDLC2BoatArrivalCreakC01:35.841
 SoundPlay.QSTDLC2BoatArrivalCreakB04:40.87
 IdleStop:41.6667
 
-5969
+5978
 104
 4
 1
@@ -104507,6 +104826,81 @@ IdleStop:41.6667
 0 0 0 0 1
 
 874
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+875
+1.466666
+4
+0 0 0 0
+0.333333 0 10 0
+1.066666 0 500 0
+1.433333 0 510 0
+1
+0 0 0 0 1
+
+876
+1.233333
+4
+0 0 0 0
+0.333333 0 -10 0
+0.733333 0 -500 0
+1.2 0 -510 0
+1
+0 0 0 0 1
+
+877
+1.266666
+4
+0 0 0 0
+0.333333 450 0 0
+0.6 450 0 0
+1.2 500 0 0
+1
+0 0 0 0 1
+
+878
+1.266666
+4
+0 0 0 0
+0.333333 -450 0 0
+0.6 -450 0 0
+1.2 -500 0 0
+1
+0 0 0 0 1
+
+879
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+880
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+881
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+882
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+883
 3
 1
 0 0 0 0
