@@ -8729,7 +8729,7 @@ FootBack:0.333333
 1
 0.4 0 0 0 1
 
-25054
+25060
 1
 19
 Behaviors\0_Master.hkx
@@ -33775,6 +33775,66 @@ VampireLordTransform
 SoundPlay:0.5
 SetRace:2
 
+DoNoteMagic
+1656
+1
+0
+0
+3
+SoundPlay.NoteDo:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+ReNoteMagic
+1657
+1
+0
+0
+3
+SoundPlay.NoteRe:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+MiNoteMagic
+1658
+1
+0
+0
+3
+SoundPlay.NoteMi:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+FaNoteMagic
+1659
+1
+0
+0
+3
+SoundPlay.NoteFa:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+SolNoteMagic
+1660
+1
+0
+0
+3
+SoundPlay.NoteSol:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+LaNoteMagic
+1661
+1
+0
+0
+3
+SoundPlay.NoteLal:0
+RitualSpellOut:3
+SolfeggioStop:3
+
 DLC01TrailerWalkForward
 623
 1
@@ -33784,7 +33844,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12704
+12710
 100
 1.2
 1
@@ -46482,6 +46542,48 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
+1656
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1657
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1658
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1659
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1660
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1661
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -46489,7 +46591,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-25045
+25051
 1
 19
 Behaviors\0_Master.hkx
@@ -71526,6 +71628,66 @@ VampireLordTransform
 SoundPlay:0.5
 SetRace:2
 
+DoNoteMagic
+1656
+1
+0
+0
+3
+SoundPlay.NoteDo:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+ReNoteMagic
+1657
+1
+0
+0
+3
+SoundPlay.NoteRe:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+MiNoteMagic
+1658
+1
+0
+0
+3
+SoundPlay.NoteMi:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+FaNoteMagic
+1659
+1
+0
+0
+3
+SoundPlay.NoteFa:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+SolNoteMagic
+1660
+1
+0
+0
+3
+SoundPlay.NoteSol:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+LaNoteMagic
+1661
+1
+0
+0
+3
+SoundPlay.NoteLal:0
+RitualSpellOut:3
+SolfeggioStop:3
+
 DLC01TrailerWalkForward
 623
 1
@@ -71535,7 +71697,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12741
+12747
 100
 1.2
 1
@@ -84270,6 +84432,48 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
+1656
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1657
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1658
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1659
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1660
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1661
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -84277,7 +84481,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-13940
+13946
 1
 17
 Behaviors\0_Master.hkx
@@ -98195,6 +98399,66 @@ IdleDLC02FallOnKneesLoop
 0
 0
 
+DoNoteMagic
+869
+1
+0
+0
+3
+SoundPlay.NoteDo:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+ReNoteMagic
+870
+1
+0
+0
+3
+SoundPlay.NoteRe:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+MiNoteMagic
+871
+1
+0
+0
+3
+SoundPlay.NoteMi:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+FaNoteMagic
+872
+1
+0
+0
+3
+SoundPlay.NoteFa:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+SolNoteMagic
+873
+1
+0
+0
+3
+SoundPlay.NoteSol:0
+RitualSpellOut:3
+SolfeggioStop:3
+
+LaNoteMagic
+874
+1
+0
+0
+3
+SoundPlay.NoteLal:0
+RitualSpellOut:3
+SolfeggioStop:3
+
 IdleDLC02BoatRide
 400
 1
@@ -98218,7 +98482,7 @@ SoundPlay.QSTDLC2BoatArrivalCreakC01:35.841
 SoundPlay.QSTDLC2BoatArrivalCreakB04:40.87
 IdleStop:41.6667
 
-5963
+5969
 104
 4
 1
@@ -104174,6 +104438,48 @@ IdleStop:41.6667
 0.8 4.53895 -10.3398 0
 1
 0.8 0 0 0 1
+
+869
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+870
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+871
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+872
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+873
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+874
+3
+1
+0 0 0 0
+1
+0 0 0 0 1
 
 863
 0.333333
